@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
-import Slideshow from "../components/Slideshow"; // Assuming you have a Slideshow component
+import Slideshow from "../components/Slideshow";
 import FeatureNew from "../components/FeaturedNews";
 import LatestNews from "../components/LatestNews";
 

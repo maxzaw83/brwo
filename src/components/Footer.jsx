@@ -6,10 +6,11 @@ const Footer = () => {
       <footer className="bg-black text-white py-6 text-center text-xs sm:text-sm">
         <div className="flex flex-wrap justify-center gap-4 mb-2">
           <Link to="/">HOME</Link>
-          <Link to="/about">ABOUT US</Link>
-          <Link to="/events">EVENTS</Link>
+          <Link to="/about_us">ABOUT US</Link>
+          <Link to="/upcoming_event">UPCOMING EVENTS</Link>
+          <Link to="/past_event">PAST EVENTS</Link>
           <Link to="/contact">CONTACT US</Link>
-          <Link to="/signin">SIGN IN</Link>
+          <Link to="/login">SIGN IN</Link>
         </div>
         <div>
           &copy; 2025.{" "}

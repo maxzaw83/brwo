@@ -3,14 +3,22 @@
 const validPaths = [
   "/", // root
   "/about_us",
-  "/products",
   "/products/view",
   "/contact",
+  "/past_event",
+  "/upcoming_event",
   "/dashboard/settings",
   "/dashboard/profile",
   "/news/our-community-cares",
   "/news/muslim_aid",
-  // Add more allowed paths here
+  "/news/poem",
+  "/news/strengthening_families_and_community_bonds",
+  "/news/eid_mubarak",
+  "/news/earthquake_relief_effort",
+  "/news/emergency_relief_for_rohingya",
+  "/news/hope_and_hardship",
+  "/news/united_in_compassion",
+  "/news",
 ];
 
 export default validPaths;

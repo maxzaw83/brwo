@@ -9,7 +9,7 @@ const Header = () => {
   return (
     <div>
       <header className="shadow-md bg-white fixed w-full z-40">
-        <div className="container mx-auto flex items-center justify-between px-4 py-2">
+        <div className="container mx-auto md:px-35 flex items-center justify-between px-4 py-2">
           <div className="pl-2 sm:pl-6">
             <Logo w={45} h={45} />
           </div>

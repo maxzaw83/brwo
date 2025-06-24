@@ -11,16 +11,19 @@ Your compassion and contributions have made a real difference in the lives of vu
     link: "/news/muslim_aid",
   },
   {
-    title: "RASNZ - Refugees as Survivors New Zealand",
-    description: `Our friend Adel has generously contributed his thoughts to this Stuff piece by the wonderful journalist Matthew Rosenberg: "You can have multi-million dollar initiatives, but the easiest thing is to knock on your neighbour's door and have a cup of tea...That guy across the road from another country might have a different language and culture, but very similar needs." #whatheSaid 🙌`,
-    image: "/f2.jpg",
-    link: "/news/rasnz",
+    title: "Echoes of Home: Ayman Salam’s Tribute to Rohingya Mothers",
+    description: `We are proud of you, Ayman Salaam.
+You have wonderfully delivered your poem at The New Beginning Under Matariki Stars.
+Your words carried deep meaning and emotion, reminding us of the suffering endured by the Rohingya people during the 2017 genocide — and more importantly, how they survived with strength, resilience, and dignity.`,
+    image: "/news/poen.png",
+    link: "/news/poem",
   },
   {
     title: "EID MUBARAK 2025",
-    description: `Hello Everyone EID MUBARAK and warm wishes from Rohingya Community in New Zealand`,
+    description: `We had a great Eid celebration for our Rohingya community last night, thanks to all the volunteers. We'd like to say a big thank you to everyone who came out, and we're really proud of our team.
+Thank you all.`,
     image: "/f3.png",
-    link: "/news/eid-2025",
+    link: "/news/eid_mubarak",
   },
 ];
 

@@ -5,43 +5,43 @@ import { FaRegFileAlt } from "react-icons/fa";
 
 const newsItems = [
   {
-    title: "CERTIFICATE DISTRIBUTION CEREMONY- PANZ URDU SCHOOL",
-    subtitle: "Assalam-o-Ailaikum/Kia Ora Dear respected community members...",
-    image: "/l1.png",
-    link: "/news/certificate",
-  },
-  {
-    title: "LEADERSHIP AND COMMUNITY SERVICE AWARD-2022",
-    subtitle: "Asalaam-o-Alaikum / Kia Ora Respected Community Members...",
-    image: "/l2.jpg",
-    link: "/news/certificate",
-  },
-  {
-    title: "YOUM E ASHURA",
+    title:
+      "Strengthening Families and Community Bonds: BRWO's Engagement Visit to Blenheim",
     subtitle:
-      "Muharram is the month in which justice rose against injustice...",
-    image: "/l3.jpg",
-    link: "/news/certificate",
+      "During our 3-day community visit to Blenheim, the Burmese Rohingya Welfare Organization successfully delivered programs focused on building healthy families (addressing functional and dysfunctional relationships), preventing family violence, and fostering social cohesion....",
+    image: "/news/sfcb1.jpg",
+    link: "/news/strengthening_families_and_community_bonds",
   },
   {
-    title: "JASHAN-E-AZADI CAR RALLY",
-    subtitle: "14 August 2022, to commemorate the country’s 75th year...",
-    image: "/l4.jpg",
-    link: "/news/certificate",
-  },
-  {
-    title: "CULTURAL CELEBRATION NIGHT",
+    title:
+      "United for Myanmar: Rohingya Community Launches Earthquake Relief Effort",
     subtitle:
-      "An evening to celebrate diversity and tradition with community performances...",
-    image: "/assets/news5.jpg",
-    link: "/news/cultural-night",
+      "Our Rohinhya community organization in New Zealand is graciously accepting donations and clothing for the individuals affected by the recent earthquake in Myanmar. Additionally, a few of our members are preparing to travel there to deliver the assistance in person without any bias based on the background of the victims. We would also be delighted to invite and cordially welcome any organization that is interested in collaborating with us to provide assistance to those affected by earthquakes in Myanmar....",
+    image: "/news/eqdonation.jpg",
+    link: "/news/earthquake_relief_effort",
   },
   {
-    title: "COMMUNITY IFTAR 2024",
+    title: "Global Rohingya Initiative for Emergency Relief for Rohingya",
     subtitle:
-      "Join us for a community Iftar in Ramadan to break fast together...",
-    image: "/assets/news6.jpg",
-    link: "/news/iftar2024",
+      "In response to the growing humanitarian crises impacting Rohingya communities across the globe — from refugee camps in Bangladesh to conflict-affected areas in Myanmar and diaspora communities in distress — we are launching the Global Rohingya Initiative for Emergency Relief....",
+    image: "/news/re1.jpg",
+    link: "/news/emergency_relief_for_rohingya",
+  },
+  {
+    title:
+      "Home of Hope and Hardship: Anayat Ullah’s Visit to the Refugee Camps",
+    subtitle:
+      "During our visit to the Rohingya Refugee Camps in Bangladesh, Brother Anayat Ullah , a member of our Burmese Rohingya Welfare Organization New Zealand, who was born and raised in this particular Camps shared his childhood memories....",
+    image: "/news/re3.jpg",
+    link: "/news/hope_and_hardship",
+  },
+  {
+    title:
+      "United in Compassion: Supporting Rohingya and Bangladeshi Families in Crisis",
+    subtitle:
+      "Recent catastrophic events have devasted the people of Bangladesh and our Rohingya families who fled to Bangladesh Refugee Camp, leaving many families without homes, food, and basic....",
+    image: "/news/compassion1.jpg",
+    link: "/news/united_in_compassion",
   },
 ];
 

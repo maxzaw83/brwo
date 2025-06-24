@@ -46,13 +46,13 @@ const Menu = () => {
               </span>
               <div className="absolute top-full left-0 mt-2 bg-white text-black border rounded shadow-lg opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 min-w-[180px] z-10">
                 <Link
-                  to="/events/upcoming"
+                  to="/upcoming_event"
                   className="block px-5 py-2 hover:bg-gray-100 rounded"
                 >
                   UPCOMING EVENT
                 </Link>
                 <Link
-                  to="/events/past"
+                  to="/past_event"
                   className="block px-5 py-2 hover:bg-gray-100 rounded"
                 >
                   PAST EVENT
@@ -96,14 +96,14 @@ const Menu = () => {
               {dropdownOpen && (
                 <div className="ml-4 mt-2 space-y-1">
                   <Link
-                    to="/events/upcoming"
+                    to="/upcoming_event"
                     className="block hover:text-[#FDC700]"
                     onClick={() => setMenuOpen(false)}
                   >
                     UPCOMING EVENT
                   </Link>
                   <Link
-                    to="/events/past"
+                    to="/past_event"
                     className="block hover:text-[#FDC700]"
                     onClick={() => setMenuOpen(false)}
                   >
