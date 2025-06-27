@@ -1,11 +1,11 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
-import Slideshow from "../components/Slideshow";
+import Slideshow from "../components/Slideshows/Slideshow";
 import FeatureNew from "../components/FeaturedNews";
 import LatestNews from "../components/LatestNews";
 
 const HomePage = () => {
-  const images = ["/s1.png", "/s2.jpg"];
+  const images = ["/WelcomeSlide1.jpg", "/s2.jpg"];
 
   return (
     <div className="min-h-screen bg-gray-100 text-gray-900">

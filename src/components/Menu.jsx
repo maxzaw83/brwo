@@ -59,6 +59,13 @@ const Menu = () => {
                 </Link>
               </div>
             </div>
+            <Link
+              to="/news"
+              onClick={() => setMenuOpen(false)}
+              className="block hover:text-[#FDC700]"
+            >
+              NEWS
+            </Link>
 
             <Link to="/contact" className="hover:text-[#FDC700]">
               CONTACT US
@@ -112,6 +119,13 @@ const Menu = () => {
                 </div>
               )}
             </div>
+            <Link
+              to="/news"
+              onClick={() => setMenuOpen(false)}
+              className="block hover:text-[#FDC700]"
+            >
+              NEWS
+            </Link>
 
             <Link
               to="/contact"
