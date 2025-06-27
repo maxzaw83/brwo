@@ -1,5 +1,5 @@
 import React, { useContext, useState } from "react";
-import loginIcons from "../assest/signin.gif";
+import loginIcons from "../assest/profile.jpg";
 import { FaEye } from "react-icons/fa";
 import { FaEyeSlash } from "react-icons/fa";
 import { Link, useNavigate } from "react-router-dom";
@@ -93,13 +93,13 @@ export function Login() {
                 </div>
                 <Link
                   to={"/forgot-password"}
-                  className="block w-fit ml-auto hover:underline hover:text-red-600"
+                  className="block w-fit ml-auto hover:underline hover:text-blue-600"
                 >
                   Forgot password ?
                 </Link>
               </div>
 
-              <button className="bg-red-600 hover:bg-red-700 text-white px-6 py-2 w-full max-w-[150px] rounded-full hover:scale-110 transition-all mx-auto block mt-6">
+              <button className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-2 w-full max-w-[150px] rounded-full hover:scale-110 transition-all mx-auto block mt-6">
                 Login
               </button>
             </form>
@@ -107,8 +107,8 @@ export function Login() {
             <p className="my-5">
               Don't have account ?{" "}
               <Link
-                to={"/singup"}
-                className=" text-red-600 hover:text-red-700 hover:underline"
+                to={"/signup"}
+                className=" text-blue-600 hover:text-blue-700 hover:underline"
               >
                 Sign up
               </Link>
