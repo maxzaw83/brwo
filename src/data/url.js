@@ -3,6 +3,8 @@
 const validPaths = [
   "/", // root
   "/about_us",
+  "/login",
+  "/signup",
   "/products/view",
   "/contact",
   "/past_event",

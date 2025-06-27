@@ -7,7 +7,7 @@ import { Upcoming_Event } from "./pages/Upcoming_Event";
 import { Past_Event } from "./pages/Past_Event";
 import { Contact } from "./pages/Contact";
 import { Login } from "./pages/Login";
-import { SingUp } from "./pages/SingUp";
+import { SignUp } from "./pages/SignUp";
 import { News } from "./pages/News";
 import { Muslim_Aid } from "./pages/news/Muslim_Aid";
 import { Earthquake_relief_effort } from "./pages/news/Earthquake_relief_effort";
@@ -31,7 +31,7 @@ function App() {
         <Route path="/upcoming_event" element={<Upcoming_Event />} />
         <Route path="/login" element={<Login />} />
         <Route path="/news" element={<News />} />
-        <Route path="/singup" element={<SingUp />} />
+        <Route path="/signup" element={<SignUp />} />
         <Route path="/news/Muslim_Aid" element={<Muslim_Aid />} />
         <Route path="/news/eid_mubarak" element={<Eid_Mubarak />} />
         <Route

@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import loginIcons from "../assest/signin.gif";
+import loginIcons from "../assest/profile.jpg";
 import { FaEye } from "react-icons/fa";
 import { FaEyeSlash } from "react-icons/fa";
 import { Link, useNavigate } from "react-router-dom";
@@ -7,7 +7,7 @@ import imageTobase64 from "../helpers/imageTobase64";
 import SummaryApi from "../common";
 import { toast } from "react-toastify";
 
-export function SingUp() {
+export function SignUp() {
   const [showPassword, setShowPassword] = useState(false);
   const [showConfirmPassword, setShowConfirmPassword] = useState(false);
   const [data, setData] = useState({
@@ -167,7 +167,7 @@ export function SingUp() {
                 </div>
               </div>
 
-              <button className="bg-red-600 hover:bg-red-700 text-white px-6 py-2 w-full max-w-[150px] rounded-full hover:scale-110 transition-all mx-auto block mt-6">
+              <button className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-2 w-full max-w-[150px] rounded-full hover:scale-110 transition-all mx-auto block mt-6">
                 Sign Up
               </button>
             </form>
@@ -176,7 +176,7 @@ export function SingUp() {
               Already have account ?{" "}
               <Link
                 to={"/login"}
-                className=" text-red-600 hover:text-red-700 hover:underline"
+                className=" text-blue-600 hover:text-blue-700 hover:underline"
               >
                 Login
               </Link>
