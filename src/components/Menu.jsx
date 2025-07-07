@@ -12,7 +12,7 @@ const Menu = () => {
             Burmese Rohingya Welfare Organization New Zealand
           </div>
 
-          {/* Hamburger button */}
+          {/* Hamburger button */} 
           <button
             onClick={() => setMenuOpen(!menuOpen)}
             className="md:hidden focus:outline-none text-white self-start ml-4"
@@ -65,6 +65,13 @@ const Menu = () => {
               className="block hover:text-[#FDC700]"
             >
               NEWS
+            </Link>
+            <Link
+              to="/docs"
+              onClick={() => setMenuOpen(false)}
+              className="block hover:text-[#FDC700]"
+            >
+              DOCS
             </Link>
 
             <Link to="/contact" className="hover:text-[#FDC700]">
@@ -126,7 +133,13 @@ const Menu = () => {
             >
               NEWS
             </Link>
-
+            <Link
+              to="/docs"
+              onClick={() => setMenuOpen(false)}
+              className="block hover:text-[#FDC700]"
+            >
+              DOCS
+            </Link>
             <Link
               to="/contact"
               className="block hover:text-[#FDC700]"

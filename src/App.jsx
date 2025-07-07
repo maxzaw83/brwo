@@ -4,6 +4,7 @@ import { BrowserRouter } from "react-router-dom";
 import Home from "./pages/Home.jsx";
 import { About_Us } from "./pages/About_Us";
 import { Upcoming_Event } from "./pages/Upcoming_Event";
+import { Docs } from "./pages/Docs";
 import { Past_Event } from "./pages/Past_Event";
 import { Contact } from "./pages/Contact";
 import { Login } from "./pages/Login";
@@ -29,6 +30,7 @@ function App() {
         <Route path="/Contact" element={<Contact />} />
         <Route path="/past_event" element={<Past_Event />} />
         <Route path="/upcoming_event" element={<Upcoming_Event />} />
+        <Route path="/docs" element={<Docs />} />
         <Route path="/login" element={<Login />} />
         <Route path="/news" element={<News />} />
         <Route path="/signup" element={<SignUp />} />
