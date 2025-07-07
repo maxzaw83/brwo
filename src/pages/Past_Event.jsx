@@ -77,7 +77,7 @@ export function Past_Event() {
       imageUrl:
         "https://placehold.co/600x300/16a34a/ffffff?text=Community+Awards",
       organizer: "Burmese Rohingya Welfare Organization NZ",
-      facebookUrl: "https://facebook.com",
+      facebookUrl: "https://www.facebook.com/brwonztrust",
     },
     {
       id: 2,
@@ -89,7 +89,7 @@ export function Past_Event() {
       imageUrl:
         "https://placehold.co/600x300/db2777/ffffff?text=Women+in+Business",
       organizer: "Burmese Rohingya Welfare Organization NZ",
-      facebookUrl: "https://facebook.com",
+      facebookUrl: "https://www.facebook.com/brwonztrust",
     },
     {
       id: 3,
@@ -100,7 +100,7 @@ export function Past_Event() {
       imageUrl:
         "https://placehold.co/600x300/0284c7/ffffff?text=Community+Baithak",
       organizer: "Burmese Rohingya Welfare Organization NZ",
-      facebookUrl: "https://facebook.com",
+      facebookUrl: "https://www.facebook.com/brwonztrust",
     },
     {
       id: 4,
@@ -110,7 +110,7 @@ export function Past_Event() {
       location: "Fickling Convention Centre, Three Kings, Auckland",
       imageUrl: "https://placehold.co/600x300/f97316/ffffff?text=AGM+2023",
       organizer: "Burmese Rohingya Welfare Organization NZ",
-      facebookUrl: "https://facebook.com",
+      facebookUrl: "https://www.facebook.com/brwonztrust",
     },
     {
       id: 5,
@@ -120,7 +120,7 @@ export function Past_Event() {
       location: "Mt Roskill War Memorial Hall, Auckland",
       imageUrl: "https://placehold.co/600x300/84cc16/ffffff?text=Food+Festival",
       organizer: "Burmese Rohingya Welfare Organization NZ",
-      facebookUrl: "https://facebook.com",
+      facebookUrl: "https://www.facebook.com/brwonztrust",
     },
     {
       id: 6,
@@ -130,7 +130,7 @@ export function Past_Event() {
       location: "Lovell Park, Mount Roskill, Auckland",
       imageUrl: "https://placehold.co/600x300/6d28d9/ffffff?text=Sports+Day",
       organizer: "Burmese Rohingya Welfare Organization NZ",
-      facebookUrl: "https://facebook.com",
+      facebookUrl: "https://www.facebook.com/brwonztrust",
     },
   ];
 
