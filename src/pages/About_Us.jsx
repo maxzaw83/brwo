@@ -3,14 +3,14 @@ export function About_Us() {
     <>
       <div className="px-4 md:px-10 lg:px-40 mb-2">
         <p>
-          Burmese Rohingya Welfare Organization New Zealand (BRWONZ) is a
-          not-for-profit, community-based organization established to support
-          the welfare, rights, and dignity of Rohingya people living in New
-          Zealand and abroad. Founded by members of the Rohingya community,
-          BRWONZ is committed to promoting social inclusion, cultural
-          preservation, and humanitarian relief. We work to empower Rohingya
-          individuals and families through community engagement, education,
-          advocacy, and charitable aid.
+          Rohingya Association New Zealand (RANZ) is a not-for-profit,
+          community-based organization established to support the welfare,
+          rights, and dignity of Rohingya people living in New Zealand and
+          abroad. Founded by members of the Rohingya community, RANZ is
+          committed to promoting social inclusion, cultural preservation, and
+          humanitarian relief. We work to empower Rohingya individuals and
+          families through community engagement, education, advocacy, and
+          charitable aid.
         </p>
         <br />
         <p>
@@ -42,9 +42,9 @@ export function About_Us() {
         <p>
           💛 Together for a Better Future We envision a world where Rohingya
           people live with dignity, security, and opportunity. With your
-          support, BRWONZ will continue to be a voice for the voiceless and a
-          home for the hopeful. “Justice, compassion, and community — these are
-          the values we live by.”
+          support, RANZ will continue to be a voice for the voiceless and a home
+          for the hopeful. “Justice, compassion, and community — these are the
+          values we live by.”
         </p>
       </div>
     </>
