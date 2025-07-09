@@ -16,7 +16,7 @@ const Footer = () => {
         <div>
           &copy; 2025.{" "}
           <span className="text-yellow-400">
-            Burmese Rohingya Welfare Organization New Zealand
+            Rohingya Association New Zealand
           </span>
         </div>
       </footer>
