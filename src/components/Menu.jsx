@@ -9,10 +9,10 @@ const Menu = () => {
       <header className="bg-black text-white shadow-md">
         <div className="w-full px-2 md:px-35 py-4 flex justify-between items-center">
           <div className="hidden md:block text-lg font-bold tracking-wide px-10 -ml-4">
-            Burmese Rohingya Welfare Organization New Zealand
+            Rohingya Association New Zealand
           </div>
 
-          {/* Hamburger button */} 
+          {/* Hamburger button */}
           <button
             onClick={() => setMenuOpen(!menuOpen)}
             className="md:hidden focus:outline-none text-white self-start ml-4"
