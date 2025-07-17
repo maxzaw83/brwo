@@ -10,6 +10,7 @@ const validPaths = [
   "/past_event",
   "/upcoming_event",
   "/docs",
+  "/gallery",
   "/dashboard/settings",
   "/dashboard/profile",
   "/news/our-community-cares",

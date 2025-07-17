@@ -73,6 +73,13 @@ const Menu = () => {
             >
               DOCS
             </Link>
+            <Link
+              to="/gallery"
+              onClick={() => setMenuOpen(false)}
+              className="block hover:text-[#FDC700]"
+            >
+              GALLERY
+            </Link>
 
             <Link to="/contact" className="hover:text-[#FDC700]">
               CONTACT US
@@ -139,6 +146,13 @@ const Menu = () => {
               className="block hover:text-[#FDC700]"
             >
               DOCS
+            </Link>
+            <Link
+              to="/gallery"
+              onClick={() => setMenuOpen(false)}
+              className="block hover:text-[#FDC700]"
+            >
+              Gallery
             </Link>
             <Link
               to="/contact"

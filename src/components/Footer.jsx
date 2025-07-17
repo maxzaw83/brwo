@@ -10,6 +10,8 @@ const Footer = () => {
           <Link to="/upcoming_event">UPCOMING EVENTS</Link>
           <Link to="/past_event">PAST EVENTS</Link>
           <Link to="/news">NEWS</Link>
+          <Link to="/docs">DOCS</Link>
+          <Link to="/gallery">GALLERY</Link>
           <Link to="/contact">CONTACT US</Link>
           <Link to="/login">SIGN IN</Link>
         </div>

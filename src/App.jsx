@@ -8,6 +8,7 @@ import { Docs } from "./pages/Docs";
 import { Past_Event } from "./pages/Past_Event";
 import { Contact } from "./pages/Contact";
 import { Login } from "./pages/Login";
+import { Gallery } from "./pages/Gallery";
 import { SignUp } from "./pages/SignUp";
 import { News } from "./pages/News";
 import { Muslim_Aid } from "./pages/news/Muslim_Aid";
@@ -32,6 +33,7 @@ function App() {
         <Route path="/upcoming_event" element={<Upcoming_Event />} />
         <Route path="/docs" element={<Docs />} />
         <Route path="/login" element={<Login />} />
+        <Route path="/Gallery" element={<Gallery />} />
         <Route path="/news" element={<News />} />
         <Route path="/signup" element={<SignUp />} />
         <Route path="/news/Muslim_Aid" element={<Muslim_Aid />} />
