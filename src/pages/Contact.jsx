@@ -36,8 +36,8 @@ const PhoneIcon = (props) => (
   </svg>
 );
 export function Contact() {
-  const email = "rohingyawonz@gmail.com";
-  const phone = "021 02797647";
+  const email = "info@rohingyanz.org";
+  const phone = "0064224162376";
   // State to trigger animations on mount
   const [isMounted, setIsMounted] = useState(false);
 
@@ -130,6 +130,13 @@ export function Contact() {
                     className="mt-6 inline-block rounded-lg bg-indigo-50 px-5 py-3 text-base font-medium text-indigo-700 transition hover:bg-indigo-100 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
                   >
                     {phone}
+                  </a>
+                  <br />
+                  <a
+                    href={`tel:${phone.replace(/\s/g, "")}`}
+                    className="mt-6 inline-block rounded-lg bg-indigo-50 px-5 py-3 text-base font-medium text-indigo-700 transition hover:bg-indigo-100 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
+                  >
+                    0272102797647
                   </a>
                 </div>
               </div>
