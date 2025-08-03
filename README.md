@@ -47,7 +47,7 @@ RANZ exists to:
 
 - .NET SDK 8.0+
 - Node.js 18+
-- SQL Server or Azure SQL
+- SQL Server 
 
 ### Setup
 
