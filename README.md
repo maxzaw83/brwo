@@ -1,5 +1,5 @@
-# brwo
-Burmese Rohingya Welfare Organization New Zealand 
+# RANZ
+ 
 # 🌏 Rohingya Association of New Zealand – Official Website
 
 The official website of the **Rohingya Association of New Zealand (RANZ)**, a non-profit community organization representing the Rohingya community across Aotearoa. Built to empower, inform, and connect Rohingya refugees, migrants, and allies in New Zealand.
